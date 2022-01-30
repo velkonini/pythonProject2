@@ -51,5 +51,3 @@ from itertools import cycle
 #     if cou == 15:
 #         break
 
-#Задача7
-
